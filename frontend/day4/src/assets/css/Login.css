@@ -1,0 +1,16 @@
+.log-button:hover {
+  transition: 0.6s;
+}
+.log-container {
+  display: flex;
+}
+.lottie-animation {
+  background-color: transparent;
+}
+.login-left {
+  background-image: url("../assets/images/mobile-topup1.jpg");
+  background-size: cover;
+}
+.logo-head {
+  display: flex;
+}

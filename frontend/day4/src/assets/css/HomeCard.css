@@ -1,0 +1,17 @@
+.home-card-container {
+  background-color: #e5e0e0;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 75%; /* Adjust width as needed */
+  /* margin-left: 10%; */
+}
+
+.home-card-content {
+  text-align: center;
+}
+
+.home-card-content h1 {
+  font-size: 24px;
+  color: #333333;
+}
