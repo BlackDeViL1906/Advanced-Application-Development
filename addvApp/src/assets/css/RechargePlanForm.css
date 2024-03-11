@@ -1,0 +1,28 @@
+.custom-form {
+  padding: 50px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.custom-form input {
+  margin-bottom: 15px;
+}
+
+.custom-button {
+  background-color: #4caf50;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  transition: background-color 0.3s;
+}
+
+.custom-button:hover {
+  background-color: #45a049;
+}
+
+.recharge-plan-field {
+  width: 100px;
+}

@@ -1,0 +1,36 @@
+.prepaid-plan-container {
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.prepaid-plan-container button:hover {
+  scale: 1.05;
+  transition: 0.5s;
+}
+.jio-prepaid-plans-row {
+  display: flex;
+  justify-content: space-evenly;
+  /* column-gap: 30px; */
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.prepaid-plan-card {
+  width: calc(95% - 20px);
+  margin-bottom: 30px;
+  background-color: #ffffff;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 20px;
+  height: 95%;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1);
+}
+.prepaid-plan-card:hover {
+  scale: 1.05;
+  transition: 0.6s;
+}
+.custom-splide .splide__slide {
+  padding-left: 20px;
+  padding-right: 45px;
+}
+.custom-splide .splide__slide:first-child {
+  margin-left: 2%;
+}
